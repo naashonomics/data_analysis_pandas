@@ -20,9 +20,11 @@ Documentation https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.
 
 Workbook:  https://github.com/naashonomics/data_analysis_pandas/blob/master/Series.ipynb
 
-CSV file: https://github.com/naashonomics/data_analysis_pandas/blob/master/pokemon.csv 
+CSV file 
 
-          https://github.com/naashonomics/data_analysis_pandas/blob/master/google_stock_price.csv
+          1: https://github.com/naashonomics/data_analysis_pandas/blob/master/pokemon.csv 
+
+          2: https://github.com/naashonomics/data_analysis_pandas/blob/master/google_stock_price.csv
 
 
 
