@@ -14,5 +14,11 @@ Prereq:
 
 ![](img/prereq.PNG)
 
-Series
+Series: 
+
+Documentation https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.html
+
+Workbook:  https://github.com/naashonomics/data_analysis_pandas/blob/master/Series.ipynb
+
+
 
