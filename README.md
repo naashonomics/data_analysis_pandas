@@ -29,6 +29,8 @@ CSV file
 
 Dataframe:
 
+Documentation: https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html
+
 Workbook1:https://github.com/naashonomics/data_analysis_pandas/blob/master/DataFrames%201.ipynb
 
 Workbook2:https://github.com/naashonomics/data_analysis_pandas/blob/master/DataFrames%202.ipynb
