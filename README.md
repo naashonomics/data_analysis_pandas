@@ -27,5 +27,10 @@ CSV file
           2: https://github.com/naashonomics/data_analysis_pandas/blob/master/google_stock_price.csv
 
 
+Dataframe:
 
+Workbook1:
 
+Workbook2:
+
+Workbook3:
