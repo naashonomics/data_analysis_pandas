@@ -29,8 +29,8 @@ CSV file
 
 Dataframe:
 
-Workbook1:
+Workbook1:https://github.com/naashonomics/data_analysis_pandas/blob/master/DataFrames%201.ipynb
 
-Workbook2:
+Workbook2:https://github.com/naashonomics/data_analysis_pandas/blob/master/DataFrames%202.ipynb
 
-Workbook3:
+Workbook3:https://github.com/naashonomics/data_analysis_pandas/blob/master/DataFrames%203.ipynb
