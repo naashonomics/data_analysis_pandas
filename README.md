@@ -12,18 +12,4 @@ To ensure faster execution do esc and h for help for keyboard short cuts
 
 Prereq:
 
-1> Basic to Intermediate Python
-
-2> Basic knowledge of pivot and excel operations 
-
-3> Hands on 
-  
-  3.1 Datatypes (typeof will help you , int, float, string ] 
-  
-  3.2 Lists [Operations on List ]
-  
-  3.3 Dictionary [ Hashmap ]
-  
-  3.4 Operators [+ ,- ,* ,/ ,// ,== ,!= , > ,<.>=,<= ]
-  
-  3.5 Functions  
+![](img/prereq.PNG)
