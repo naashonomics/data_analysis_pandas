@@ -13,3 +13,6 @@ To ensure faster execution do esc and h for help for keyboard short cuts
 Prereq:
 
 ![](img/prereq.PNG)
+
+Series
+
