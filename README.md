@@ -11,6 +11,7 @@ To ensure faster execution do esc and h for help for keyboard short cuts
 ![](img/ipython_edit_mode_shortcuts.PNG)
 
 Prereq:
+
 1> Basic to Intermediate Python
 
 2> Basic knowledge of pivot and excel operations 
