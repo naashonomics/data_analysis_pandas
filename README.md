@@ -22,7 +22,7 @@ Workbook:  https://github.com/naashonomics/data_analysis_pandas/blob/master/Seri
 
 CSV file: https://github.com/naashonomics/data_analysis_pandas/blob/master/pokemon.csv 
 
-        : https://github.com/naashonomics/data_analysis_pandas/blob/master/google_stock_price.csv
+          https://github.com/naashonomics/data_analysis_pandas/blob/master/google_stock_price.csv
 
 
 
