@@ -14,7 +14,7 @@ Prereq:
 
 ![](img/prereq.PNG)
 
-Series: 
+Series: [read_csv, sort_values() ,inplace() ,sort_inex(), in , idxmax(), idxmin(),get(),  ]
 
 Documentation https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.html
 
